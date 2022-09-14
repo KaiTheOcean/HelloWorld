@@ -13,9 +13,10 @@ The link below is a video which I demostrated how to use those three languages t
 
 # Development Environment
 
-* Python 3.9.7 32 bit 
+* Python 3.9 32-bit 
 * Visual Stuido Code 
 * Git / Github 
+* Xcode
 
 {Describe the tools that you used to develop the software}
 
