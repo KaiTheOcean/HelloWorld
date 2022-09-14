@@ -26,4 +26,3 @@ The link below is a video which I demostrated how to use those three languages t
 Below are some helpful website I found to help create this repository. 
 * [C++ for Visual Studio Code](https://code.visualstudio.com/docs/languages/cpp)
 * [Working with C#](https://code.visualstudio.com/docs/languages/csharp)
-* [Create a .NET console application using Visual Code] (https://docs.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?pivots=dotnet-6-0)
