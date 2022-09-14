@@ -1,13 +1,13 @@
 # Overview
 
-This is the classic Hello World Progeam, I wrote it to demonstrate my development enviroment using Python. 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is the classic Hello World Progeam, I wrote it to demonstrate my development enviroment using Python, C++, and C#. 
+As a software developer, I am trying to learn and master the computer languages, so I could develop some great softwares to help people and make their life easier.
 
-{Provide a description of your software}
+In this repository, you will see three different computer languages(python, C++, and C#) to output the message "Hello World!"
 
-{Describe your purpose for creating this software.}
+I am hoping in this repository, you will see how amazing the computer languages are, and how much creativity it has! 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The link below is a video which I demostrated how to use those three languages to send the "Hello World!" messgae. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
