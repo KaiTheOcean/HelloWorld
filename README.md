@@ -17,10 +17,7 @@ The link below is a video which I demostrated how to use those three languages t
 * Visual Stuido Code 
 * Git / Github 
 * Xcode
-
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+* Visual Studio 2022 
 
 # Useful Websites
 
